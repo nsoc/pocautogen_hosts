@@ -1,0 +1,9 @@
+#/etc/hosts
+@H:adminvbox>ETCHOSTS="127.0.0.1 adminvbox.localdomain adminvbox"
+@H:testbox>ETCHOSTS="192.168.33.1 testbox.localdomain testbox"
+@H:web_host>ETCHOSTS="192.168.33.14 web_host"
+@H:tuxedo_host>ETCHOSTS="192.168.33.13 tuxedo_host"
+
+@H:wls_host>ETCHOSTS="192.168.33.14 wls_host"
+@H:tux_host>ETCHOSTS="192.168.33.13 tux_host"
+

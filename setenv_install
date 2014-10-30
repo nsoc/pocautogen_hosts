@@ -1,0 +1,77 @@
+MEDIA_DIR="/u01/media"
+
+@V:1211 > WLS_EDELIVERY_ZIP="V31344-01.zip"
+@V:1211 > WLS_INSTBIN_NAME=wls1211_generic.jar
+@V:1212 > WLS_EDELIVERY_ZIP="Oracle Fusion Middleware 12c WebLogic Server and Coherence (12.1.2.0.0) V38518-01.zip"
+@V:1212 > WLS_INSTBIN_NAME=wls_121200.jar
+@V:1036 > WLS_EDELIVERY_ZIP="Oracle WebLogic Server 11gR1 (10.3.6) Generic and Coherence V29856-01.zip"
+@V:1036 > WLS_INSTBIN_NAME=wls1036_generic.jar
+
+@V:1213 > TUX_EDELIVERY_ZIP=tuxedo121300_64_Linux_01_x86.zip
+@V:1211 > TUX_EDELIVERY_ZIP="B69808-01_Oracle Tuxedo 12cR1 (12.1.1.0) for Linux x86-64 (64-bit).zip"
+@V:1211 > TUX_INSTBIN_NAME=tuxedo12110_64_linux_5_x86.bin
+@V:11113 > TUX_EDELIVERY_ZIP="Oracle Tuxedo 11g Release 1 (11.1.1.3.0) for Linux x86-64 (64-bit) V29887-01.zip"
+@V:11113 > TUX_INSTBIN_NAME=tuxedo111130_64_Linux_01_x86.bin
+
+@V:371 > COH_EDELIVERY_ZIP="V28274-01.zip"
+@V:371 > COHERENCE_INSTBIN_NAME=$COH_EDELIVERY_ZIP
+
+#JAVA_EDELIVERY_ZIP="V38535-01.zip"
+#JAVA_INSTBIN_NAME=jdk-7u25-linux-x64.rpm
+#JAVA_INST_ROOT=jdk1.7.0_25
+
+#JAVA_EDELIVERY_ZIP="jdk-7u40-linux-x64.tar.gz"
+#JAVA_INSTBIN_NAME=jdk-7u40-linux-x64.tar.gz
+#JAVA_INST_ROOT=jdk1.7.0_40
+
+JAVA_EDELIVERY_ZIP="jdk-7u51-linux-x64.tar.gz"
+JAVA_INSTBIN_NAME=jdk-7u51-linux-x64.tar.gz
+JAVA_INST_ROOT=jdk1.7.0_51
+
+JAVA_JMC_EDELIVERY_ZIP="jdk-7u40-ea-linux-x64.tar.gz"
+JAVA_JMC_INSTBIN_NAME=$JAVA_JMC_EDELIVERY_ZIP
+JAVA_JMC_INST_ROOT=jdk1.7.0_40
+
+OTD_EDELIVERY_ZIP="V29773-01.zip"
+OTD_INSTBIN_NAME=
+
+JMETER_SERVERAGENT_INSTBIN_NAME="ServerAgent-2.2.1.zip"
+@V:2.9 > JMETER_SERVER_INSTBIN_NAME="apache-jmeter-2.9.zip"
+@V:2.11 > JMETER_SERVER_INSTBIN_NAME="apache-jmeter-2.11.zip"
+JMETER_SERVER_INSTBIN_NAME="apache-jmeter-2.11.zip"
+JMETER_PLUGIN_INSTBIN_NAME="JMeterPlugins-1.0.0.zip"
+
+KOMUSO_INSTBIN_NAME="komuso.zip"
+
+TSAM_EDELIVERY_ZIP="Oracle Tuxedo System and Applications Monitor Plus 12c Release 1 (12.1.1.1) for Oracle Tuxedo 12.1.1.0 for Linux x86-64 (64-bit) V37162-01.zip"
+@V:1213 > TSAM_EDELIVERY_ZIP=tsam121300_64_Linux_x86.zip
+TSAM_INSTBIN_NAME="tsam12111_tux12110_64_Linux_01_x86.bin"
+
+@V:11203 > DB_INSTBIN_NAME_LIST=("p10404530_112030_Linux-x86-64_1of7.zip" "p10404530_112030_Linux-x86-64_2of7.zip")
+@V:11203 > DB_CLIENT_INSTBIN_NAME="p10404530_112030_Linux-x86-64_4of7.zip"
+@V:11203 > DB_DEMOS_INSTBIN_NAME="p10404530_112030_Linux-x86-64_6of7.zip"
+@V:11201 > DB_INSTBIN_NAME_LIST=("linux.x64_11gR2_database_1of2.zip" "linux.x64_11gR2_database_2of2.zip")
+ORACLE_PRE_INSTALL_RPM="oracle-rdbms-server-11gR2-preinstall.x86_64"
+
+ANT_INSTBIN_NAME="apache-ant-1.9.3-bin.zip"
+ANT_INST_ROOT=apache-ant-1.9.3
+
+
+GROOVY_INSTBIN_NAME="groovy-binary-2.2.1.zip"
+GROOVY_INST_ROOT=groovy-2.2.1
+
+
+DSTAT_INSTBIN="dstat-0.7.2.zip"
+DSTAT_INST_ROOT=dstat-0.7.2
+
+
+EXAKIT_INSTBIN_NAME="exakit_20140901.zip"
+POCREPORTER_INSTBIN_NAME="PocautogenReporter_20140508.zip"
+KOMUSO_INSTBIN_NAME="komuso.zip"
+
+
+RUEI_INSTBIN_NAME="p18550895_12105_Linux-x86-64.zip"
+@V:12106 > RUEI_INSTBIN_NAME="p19712806_121060_Linux-x86-64.zip"
+
+PUPPET_STDLIB_TARGZ="puppetlabs-stdlib-3.2.1.tar.gz"
+
