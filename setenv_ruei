@@ -1,5 +1,0 @@
-RUEI_USER=moniforce
-RUEI_GROUP=moniforce
-RUEI_DB_SID=ux
-RUEI_DATA=/var/opt/ruei
-RUEI_HOME=/opt/ruei

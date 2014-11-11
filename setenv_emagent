@@ -1,8 +1,0 @@
-
-EMCLI_HOME=$INST_HOME/emcli
-EMAGENT_DOWNLOAD_DIR=$SHARE_HOME/emagent_download
-EMAGENT_BASE_DIR=$INST_HOME/emagent
-
-# set this to each hostenv file
-#EMAGENT_PORT=1830
-EMAGENT_PORT=3872
