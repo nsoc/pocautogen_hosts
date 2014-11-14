@@ -1,0 +1,3 @@
+[submodule "pc-2NodeSystem-tuxdb"]
+	path = pc-2NodeSystem-tuxdb
+	url = https://skiynet@github.com/skiynet/pocautogen_envs.git
