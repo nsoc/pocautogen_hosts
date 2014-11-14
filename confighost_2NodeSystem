@@ -1,0 +1,5 @@
+#HOST:TYPE:INSTANCE:VERSION
+
+winpc:VAGRANT::
+hostA,hostB:OS::
+adminvbox:ADMIN_CONSOLE::
