@@ -1,4 +1,0 @@
-gui_host=adminvbox
-tux2_host=hostB
-tux1_host=hostA
-db_host=hostB
