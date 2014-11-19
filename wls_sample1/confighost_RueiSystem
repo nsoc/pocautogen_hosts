@@ -1,5 +1,0 @@
-#HOST:TYPE:INSTANCE:VERSION
-
-el01bl4:VAGRANT::
-el01bl4_ruei_reporter,el01bl4_ruei_weblogic,el01bl4_ruei_db:OS::
-adminvbox:ADMIN_CONSOLE::
