@@ -1,0 +1,4 @@
+db_host=hostB
+wls_host=hostA
+load_host=hostB
+gui_host=adminvbox

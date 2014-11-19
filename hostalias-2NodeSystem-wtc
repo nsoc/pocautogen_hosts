@@ -1,0 +1,5 @@
+gui_host=adminvbox
+load_host=hostA
+wls_host=hostB
+tux_host=hostB
+db_host=hostB
