@@ -1,0 +1,12 @@
+#HOST:TYPE:INSTANCE:VERSION
+
+db_host:ORACLE_DATABASE::11203
+gui_host:JMETER_CONSOLE::2.11
+load_host:JMETER_SERVER:jm1,jm2:2.11
+load_host,wls_host:JMETER_SERVERAGENT::
+gui_host,load_host,wls_host:ORACLE_JDK::
+wls_host:WLS_ADMINSERVER:AdminServer:1211
+wls_host:WLS_MANAGEDSERVER:wls1,wls2:1211
+adminvbox:ADMIN_CONSOLE::
+gui_host:JMETER_MONITOR::2.11
+wls_host:DATA_IMPORT::
