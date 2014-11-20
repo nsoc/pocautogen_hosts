@@ -1,5 +1,0 @@
-#HOST:TYPE:INSTANCE:VERSION
-
-testbox_win:VAGRANT::
-hostA,hostB:OS::
-adminvbox:ADMIN_CONSOLE::

@@ -1,4 +1,0 @@
-APPLICATION_NAME=docomo_onlinegwdb_carray_v3
-@I:jm1 > JMETER_ENVFILE=setenv_tux_dma1
-@I:jm2 > JMETER_ENVFILE=setenv_tux_dma2
-TUX_NODMGW=TRUE

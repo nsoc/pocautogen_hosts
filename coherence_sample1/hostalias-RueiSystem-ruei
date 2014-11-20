@@ -1,4 +1,0 @@
-db_host=el01bl4_ruei_db
-ruei_reporter=el01bl4_ruei_reporter
-ruei_collector=el01bl4_ruei_reporter
-wls_host=el01bl4_ruei_weblogic
