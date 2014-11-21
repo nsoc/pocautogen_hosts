@@ -12,8 +12,8 @@ tux1_host:TUXEDO_SERVER:dma2_sv1:1213:dma2
 # dmb is the client domain
 tux2_host:TUXEDO_MASTER:dmb1:1213:dmb1:TUX_DOMAIN_GROUP=1,TUX_MASTER=dmb1_sv1
 tux2_host:TUXEDO_MASTER:dmb2:1213:dmb2:TUX_DOMAIN_GROUP=2,TUX_MASTER=dmb2_sv1
-tux2_host:TUXEDO_SERVER:dmb1_sv1:1213:dmb1:TUX_USE_DB=FALSE
-tux2_host:TUXEDO_SERVER:dmb2_sv1:1213:dmb2:TUX_USE_DB=FALSE
+tux2_host:TUXEDO_SERVER:dmb1_sv1:1213:dmb1
+tux2_host:TUXEDO_SERVER:dmb2_sv1:1213:dmb2
 adminvbox:ADMIN_CONSOLE::
 gui_host:JMETER_MONITOR::
 #web_host:TSAM_MANAGER::

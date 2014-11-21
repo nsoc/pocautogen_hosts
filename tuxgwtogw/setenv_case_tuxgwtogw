@@ -11,4 +11,6 @@ APPLICATION_NAME=docomo_onlinegwdb_carray_v3
 @G:dmb2 > APPLICATION_TAG=tuxedo_client
 @I:dmb1 > TUX_IMPORT_SERVICE=SERVICE1
 @I:dmb2 > TUX_IMPORT_SERVICE=SERVICE1
+@G:dmb1 > TUX_USE_DB=FALSE
+@G:dmb2 > TUX_USE_DB=FALSE
 
