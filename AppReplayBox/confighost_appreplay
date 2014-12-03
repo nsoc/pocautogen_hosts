@@ -1,0 +1,13 @@
+#HOST:TYPE:INSTANCE:VERSION:GROUP
+
+adminvbox:ADMIN_CONSOLE::
+ruei_db:ORACLE_DATABASE::11203
+ruei_db:RUEI_DB::12105
+ruei_reporter:RUEI_REPORTER::12105
+ruei_collector:RUEI_COLLECTOR::12105
+#emoms,ruei_reporter,ruei_collector:ORACLE_JDK::
+emoms,ruei_reporter,ruei_collector,ruei_db:PUPPET::
+#emoms:WLS_ADMINSERVER:AdminServer:1211
+emrepo:ORACLE_DATABASE::11203:EM:
+emoms:EM_OMS::12104:EM
+emrepo:EM_REPO::12104:EM

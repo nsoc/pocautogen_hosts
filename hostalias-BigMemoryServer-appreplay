@@ -1,0 +1,6 @@
+ruei_reporter=hostA
+ruei_collector=hostA
+ruei_db=hostA
+emoms=hostA
+emrepo=hostA
+gui_host=adminvbox
