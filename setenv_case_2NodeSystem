@@ -1,0 +1,2 @@
+YUM_BASEURL=http://192.168.0.80/rpms
+MEDIA_REPO_URL=http://192.168.0.80/media
