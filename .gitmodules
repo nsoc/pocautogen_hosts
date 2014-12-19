@@ -1,0 +1,8 @@
+[submodule "tuxgwtogw"]
+	path = tuxgwtogw
+	url = https://github.com/nsoc/pocautogen_envs.git
+	branch = tuxgwtogw
+[submodule "tuxdb"]
+	path = tuxdb
+	url = https://github.com/nsoc/pocautogen_envs.git
+	branch = tuxdb
