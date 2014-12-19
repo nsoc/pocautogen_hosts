@@ -7,5 +7,4 @@ cohcli_host,coh_host,gui_host:ORACLE_JDK::
 coh_host:COHERENCE_MBEANCONNECTOR:cohe_mgr:371
 coh_host:COHERENCE_SERVER:coh1,coh2:371
 cohcli_host,gui_host:COHERENCE_CLIENT:cohcli1:371
-adminvbox:ADMIN_CONSOLE::
 gui_host:JMETER_MONITOR::2.11
