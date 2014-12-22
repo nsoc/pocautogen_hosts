@@ -2,4 +2,3 @@
 
 winpc:VAGRANT::
 hostA,hostB:OS::
-adminvbox:ADMIN_CONSOLE::
