@@ -1,5 +1,4 @@
 #HOST:TYPE:INSTANCE:VERSION
 
-el01bl3.exalogic.com:VAGRANT::
+localhost:VAGRANT::
 hostA,hostB:OS::
-el01bl3.exalogic.com:ADMIN_CONSOLE::

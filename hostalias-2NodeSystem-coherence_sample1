@@ -1,4 +1,4 @@
 cohcli_host=hostA
 coh_host=hostB
-gui_host=el01bl3.exalogic.com
-adminvbox=el01bl3.exalogic.com
+gui_host=localhost
+adminvbox=localhost

@@ -10,3 +10,7 @@
 	path = wls_sample1
 	url = https://github.com/nsoc/pocautogen_envs.git
 	branch = wls_sample1
+[submodule "coherence_sample1"]
+	path = coherence_sample1
+	url = https://github.com/nsoc/pocautogen_envs.git
+	branch = coherence_sample1
