@@ -1,0 +1,11 @@
+#HOST:TYPE:INSTANCE:VERSION:GROUP
+
+gui_host:JMETER_CONSOLE:::
+tux_host:JMETER_SERVER:jm1::
+tsam_host,tux_host:JMETER_SERVERAGENT:::
+tsam_host:ORACLE_JDK:::
+# dma is the server domain
+tux_host:TUXEDO_MASTER:dma1:1213:dma1:TUX_DOMAIN_GROUP=1,TUX_MASTER=dma1_sv1
+tux_host:TUXEDO_SERVER:dma1_sv1:1213:dma1
+gui_host:JMETER_MONITOR::
+tsam_host:TSAM_MANAGER::12113::

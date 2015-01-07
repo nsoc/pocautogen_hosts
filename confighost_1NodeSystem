@@ -1,0 +1,4 @@
+#HOST:TYPE:INSTANCE:VERSION
+
+localhost:VAGRANT::
+hostA:OS::

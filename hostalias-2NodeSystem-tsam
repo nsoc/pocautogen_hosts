@@ -1,0 +1,3 @@
+hostA=tsam_host
+hostB=tux_host
+localhost=gui_host
