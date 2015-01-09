@@ -18,4 +18,7 @@ MONITOR_NW_IPADDR=$ADMIN_NW_IPADDR
 MONITOR_NW_IFACE=$ADMIN_NW_IFACE
 
 
+SHARE_HOME_ROOT=/home/oracle/pocauto_share
+INST_HOME=/home/oracle/pocauto_products
+DOMAIN_HOME_ROOT=/home/oracle/pocauto_domain
 APP_REPOSITORY=/home/oracle/apps
