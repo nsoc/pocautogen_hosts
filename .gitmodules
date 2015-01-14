@@ -1,0 +1,4 @@
+[submodule "wls_sample1"]
+	path = wls_sample1
+	url = https://github.com/nsoc/pocautogen_envs.git
+	branch = wls_sample1
