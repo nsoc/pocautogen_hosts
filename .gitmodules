@@ -1,0 +1,4 @@
+[submodule "tuxart"]
+	path = tuxart
+	url = https://github.com/nsoc/pocautogen_envs.git
+	branch = tuxart

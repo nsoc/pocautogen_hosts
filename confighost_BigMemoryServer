@@ -2,4 +2,3 @@
 
 winpc:VAGRANT::
 hostA:OS::
-adminvbox:ADMIN_CONSOLE::
